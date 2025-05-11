@@ -82,7 +82,7 @@
         <mxCell id="3i7baVpf9NYimo1jSg74-18" value="温度是否高于阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-19" value="温度是否超出阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-19" value="土壤温度是否超出阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-20" value="温度是否超出阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
