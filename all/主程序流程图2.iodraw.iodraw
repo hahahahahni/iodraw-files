@@ -256,7 +256,7 @@
             <mxPoint x="394.8600000000001" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-53" value="风扇启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-53" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;风扇启动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="730" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -309,7 +309,7 @@
         <mxCell id="3i7baVpf9NYimo1jSg74-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3i7baVpf9NYimo1jSg74-71" target="3i7baVpf9NYimo1jSg74-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-71" value="蜂鸣器警报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-71" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;蜂鸣器警报&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3i7baVpf9NYimo1jSg74-53" target="3i7baVpf9NYimo1jSg74-71">
