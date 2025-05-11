@@ -19,8 +19,8 @@
         <mxCell id="aFlWk8GWoOBrHpjqp1Ln-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFlWk8GWoOBrHpjqp1Ln-4" target="aFlWk8GWoOBrHpjqp1Ln-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aFlWk8GWoOBrHpjqp1Ln-4" value="OLED初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="110" height="40" as="geometry" />
+        <mxCell id="aFlWk8GWoOBrHpjqp1Ln-4" value="OLED初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aFlWk8GWoOBrHpjqp1Ln-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFlWk8GWoOBrHpjqp1Ln-6" target="aFlWk8GWoOBrHpjqp1Ln-8">
           <mxGeometry relative="1" as="geometry" />
