@@ -245,7 +245,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="3i7baVpf9NYimo1jSg74-51">
+        <mxCell id="3i7baVpf9NYimo1jSg74-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="3i7baVpf9NYimo1jSg74-51">
           <mxGeometry x="0.4476" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -265,7 +265,7 @@
             <mxPoint x="530" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3i7baVpf9NYimo1jSg74-58">
+        <mxCell id="3i7baVpf9NYimo1jSg74-59" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="3i7baVpf9NYimo1jSg74-58">
           <mxGeometry x="-0.034" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
