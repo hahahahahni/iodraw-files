@@ -94,10 +94,15 @@
         <mxCell id="KDLbY5G2HQg4FjSsmmar-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KDLbY5G2HQg4FjSsmmar-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KDLbY5G2HQg4FjSsmmar-11">
+        <mxCell id="KDLbY5G2HQg4FjSsmmar-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDLbY5G2HQg4FjSsmmar-11" target="KDLbY5G2HQg4FjSsmmar-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="470" as="sourcePoint" />
             <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDLbY5G2HQg4FjSsmmar-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDLbY5G2HQg4FjSsmmar-27">
+          <mxGeometry x="0.1379" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
