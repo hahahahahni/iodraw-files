@@ -13,6 +13,12 @@
         <mxCell id="KDLbY5G2HQg4FjSsmmar-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="109" width="120" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="KDLbY5G2HQg4FjSsmmar-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="370" as="sourcePoint" />
+            <mxPoint x="437" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
