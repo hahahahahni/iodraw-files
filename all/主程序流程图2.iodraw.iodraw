@@ -309,7 +309,13 @@
         <mxCell id="3i7baVpf9NYimo1jSg74-71" value="蜂鸣器警报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-72" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3i7baVpf9NYimo1jSg74-53" target="3i7baVpf9NYimo1jSg74-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="770" as="sourcePoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3i7baVpf9NYimo1jSg74-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3i7baVpf9NYimo1jSg74-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="770" as="sourcePoint" />
             <mxPoint x="360" y="720" as="targetPoint" />
