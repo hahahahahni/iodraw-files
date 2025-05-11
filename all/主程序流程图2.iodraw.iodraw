@@ -285,8 +285,8 @@
             <mxPoint x="590" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-67" value="OLED显示数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="740" width="80" height="40" as="geometry" />
+        <mxCell id="3i7baVpf9NYimo1jSg74-67" value="步进电机启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="730" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
