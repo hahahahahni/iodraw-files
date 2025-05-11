@@ -224,30 +224,30 @@
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="720" as="sourcePoint" />
-            <mxPoint x="110" y="700" as="targetPoint" />
+            <mxPoint x="340" y="710" as="sourcePoint" />
+            <mxPoint x="340" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="720" as="sourcePoint" />
-            <mxPoint x="220" y="700" as="targetPoint" />
+            <mxPoint x="450" y="710" as="sourcePoint" />
+            <mxPoint x="450" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="720" as="sourcePoint" />
-            <mxPoint x="220" y="720" as="targetPoint" />
+            <mxPoint x="340" y="710" as="sourcePoint" />
+            <mxPoint x="450" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="3i7baVpf9NYimo1jSg74-53" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="720" as="sourcePoint" />
-            <mxPoint x="160" y="740" as="targetPoint" />
+            <mxPoint x="395" y="710" as="sourcePoint" />
+            <mxPoint x="390" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-53" value="风扇启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="340" y="730" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
