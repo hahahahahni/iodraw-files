@@ -73,7 +73,7 @@
             <mxPoint x="70" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-16" value="是否为自动模式？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="420" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
