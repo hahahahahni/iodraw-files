@@ -47,19 +47,18 @@
         <mxCell id="aFlWk8GWoOBrHpjqp1Ln-10" value="&lt;span class=&quot;a0&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 17px;&quot;&gt;JW01-CO2初始化&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFlWk8GWoOBrHpjqp1Ln-12" target="3i7baVpf9NYimo1jSg74-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3i7baVpf9NYimo1jSg74-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aFlWk8GWoOBrHpjqp1Ln-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.04761904761904" y="420.0396825396824" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aFlWk8GWoOBrHpjqp1Ln-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;OLED显示数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-1" value="是否为自动模式？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="420" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.502;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3i7baVpf9NYimo1jSg74-1">
+        <mxCell id="3i7baVpf9NYimo1jSg74-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.502;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="560" as="sourcePoint" />
-            <mxPoint x="380" y="520" as="targetPoint" />
+            <mxPoint x="380.24" y="516.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -73,6 +72,9 @@
             <mxPoint x="70" y="560" as="sourcePoint" />
             <mxPoint x="70" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3i7baVpf9NYimo1jSg74-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
