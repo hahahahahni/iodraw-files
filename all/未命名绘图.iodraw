@@ -43,9 +43,6 @@
         <mxCell id="aFlWk8GWoOBrHpjqp1Ln-12" value="OLED显示数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aFlWk8GWoOBrHpjqp1Ln-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.753;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aFlWk8GWoOBrHpjqp1Ln-12" target="aFlWk8GWoOBrHpjqp1Ln-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
