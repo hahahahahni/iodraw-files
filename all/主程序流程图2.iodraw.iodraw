@@ -306,10 +306,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3i7baVpf9NYimo1jSg74-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3i7baVpf9NYimo1jSg74-71">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="387.51282051282055" y="910" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3i7baVpf9NYimo1jSg74-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3i7baVpf9NYimo1jSg74-71" target="3i7baVpf9NYimo1jSg74-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3i7baVpf9NYimo1jSg74-71" value="蜂鸣器警报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="850" width="110" height="40" as="geometry" />
@@ -334,6 +332,9 @@
             <mxPoint x="625" y="870" as="sourcePoint" />
             <mxPoint x="420" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3i7baVpf9NYimo1jSg74-79" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
