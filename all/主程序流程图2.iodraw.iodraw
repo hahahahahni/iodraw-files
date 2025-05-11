@@ -7,7 +7,7 @@
         <mxCell id="KDLbY5G2HQg4FjSsmmar-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KDLbY5G2HQg4FjSsmmar-1" target="KDLbY5G2HQg4FjSsmmar-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KDLbY5G2HQg4FjSsmmar-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KDLbY5G2HQg4FjSsmmar-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="342" y="19" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDLbY5G2HQg4FjSsmmar-2" value="配置AD引脚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
