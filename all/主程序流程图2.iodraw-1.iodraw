@@ -7,7 +7,7 @@
         <mxCell id="HE3paIDtM9sFNirMM2wn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE3paIDtM9sFNirMM2wn-1" target="HE3paIDtM9sFNirMM2wn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HE3paIDtM9sFNirMM2wn-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=7;" vertex="1" parent="1">
+        <mxCell id="HE3paIDtM9sFNirMM2wn-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HE3paIDtM9sFNirMM2wn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE3paIDtM9sFNirMM2wn-2" target="HE3paIDtM9sFNirMM2wn-4">
