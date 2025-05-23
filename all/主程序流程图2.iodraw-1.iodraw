@@ -16,8 +16,14 @@
         <mxCell id="HE3paIDtM9sFNirMM2wn-2" value="传感器初始化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HE3paIDtM9sFNirMM2wn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HE3paIDtM9sFNirMM2wn-4" target="HE3paIDtM9sFNirMM2wn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HE3paIDtM9sFNirMM2wn-4" value="数据采集" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HE3paIDtM9sFNirMM2wn-8" value="数据解析与转换" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
